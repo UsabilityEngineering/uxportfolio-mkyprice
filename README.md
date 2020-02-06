@@ -7,3 +7,4 @@ Hi, my name is Ky. I'm a computer science major who took this class because I th
 
 ## UX Journal
 
+[First journal entry](journal-01/)
