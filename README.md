@@ -6,4 +6,6 @@ Hi, my name is Ky. I'm a computer science major who took this class because I th
 
 [Journal Entry 1](journal-01/)
 
+[Journal Entry 2](journal-02/)
+
 ## UX Team Project
