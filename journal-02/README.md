@@ -12,3 +12,5 @@ When the user opens the store, they first must navigate to its icon. This task i
 However, the user experience is not perfect. In an effert to maximize **satisfaction**, it seems Nintendo has sacrificed its ability to be **efficient** in some areas. For example, anytime a user clicks a button, a nice little animation will play. This is pleasent at first but after a while it becomes frustrating to wait for. 
 
 Overrall, the Nintendo Switch user experience is highly enjoyable. From its immensily **satisfying** use, to its natural **affordance**, the Nintendo Switch is something I will certainly be drawing inspiration from for my own usability engineering projects.
+
+[Back to Home](../)
