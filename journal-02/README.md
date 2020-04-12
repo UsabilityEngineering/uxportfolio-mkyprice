@@ -3,7 +3,9 @@
 
 [Back to Home](../)
 
-![alt text](../assets/nintendo-switch-1.jpg "Nintendo Switch")
+<p align="center">
+  <img src="../assets/nintendo-switch-1.jpg" alt="Nintendo Switch">
+</p>
 
 The Nintendo Switch has one of the most impressive user experiences I have used in a long time. Every action feels like it has been hand crafted just for the user's enjoyment. For example, opening the store on the console is an exerience in itself.
 
