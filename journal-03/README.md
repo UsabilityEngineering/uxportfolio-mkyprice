@@ -3,5 +3,5 @@
 
 [Back to Home](../)
 
-![alt text](../assets/amazon_home.png "Amazon Homepage")
+![alt text](../assets/amazon_home.PNG "Amazon Homepage")
 
