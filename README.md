@@ -8,4 +8,8 @@ Hi, my name is Ky. I'm a computer science major who took this class because I th
 
 [Journal Entry 2](journal-02/)
 
+[Journal Entry 3](journal-03/)
+
 ## UX Team Project
+
+[Team Project](https://usabilityengineering.github.io/SpeedClimbing/)
